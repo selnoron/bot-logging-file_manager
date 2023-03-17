@@ -1,0 +1,1 @@
+<img src="coffee.webp" width="150px">
